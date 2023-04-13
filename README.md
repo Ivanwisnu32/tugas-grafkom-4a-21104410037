@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410037 |
+| Nama Lengkap |Ivan Wisnu Sanjaya |
 | Kelas | TI-4A |
